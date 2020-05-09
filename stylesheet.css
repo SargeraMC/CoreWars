@@ -1,0 +1,37 @@
+
+body {
+    background:#2f3640;
+}
+
+
+.tutorial_title {
+    text-align: left;
+    color:#fff;
+    font-family:Roboto;
+    font-weight: 700;
+}
+
+.box {
+    background:#353b48;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    color:#fff;
+    padding:40px;
+    margin-top:20px;
+
+    font-size:18px;
+
+    text-align: left;
+    font-family:Roboto;
+}
+
+.box p {
+    margin:0px;
+    font-weight: 300;
+    font-family:Roboto;
+}
+
+.box li{
+    font-weight: 300;
+    font-family:Roboto;
+    list-style: none;
+}
